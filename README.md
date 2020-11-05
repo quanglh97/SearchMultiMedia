@@ -1,6 +1,7 @@
 # Keyword detection
 ### data 
 get data from link: https://drive.google.com/file/d/1ala2gdO2LHFHomw3TjWNMvRaBVERgF7K/view?usp=sharing
+
 copy file xeco.csv to data-bin/raw
 ### Build environment using python env
 
